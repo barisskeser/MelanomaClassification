@@ -9,4 +9,4 @@
 ## Model's Scores
 | Models | VGG-16 | VGG-19 | DenseNet-169 | DenseNet-201 | ResNet-50 | ResNet-152 | EfficientNetB3 |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | 
-| Scores | 301 | 283 | 290 | 286 | 289 | 285 | 287 | 
+| Scores | 94.67% | 94.17% | 92.88% | 91.75% | 94.92% | 94.63% | 94.15% | 
