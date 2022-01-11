@@ -1,4 +1,4 @@
-# MelanomaClassification
+# ISIC 2020 Challenge Diagnosis Classification
 
 ## Dataset
  * https://challenge2020.isic-archive.com/
